@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "268c41147d8cd462a4aead882ecaa1ef", "tri_count": "960"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "discoball_ref",
+					"polys": 960,
+					"verts": 482
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "268c41147d8cd462a4aead882ecaa1ef",
+	"name": "discoball.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01 Head",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 500,
+			"name": "discotexture.bmp",
+			"width": 500
+		}
+	],
+	"version": 10
+}

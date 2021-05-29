@@ -1,1 +1,130 @@
-{"seq_groups": 1, "hash": "75b579f042502e47e795c26ed595106f", "tri_count": "42"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "Aflock_reference",
+					"polys": 42,
+					"verts": 23
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "75b579f042502e47e795c26ed595106f",
+	"name": "valve/models/Aflock.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 24.000000,
+			"frames": 37,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 37,
+			"name": "fly"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 109,
+			"name": "fly2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 37,
+			"name": "bankL"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 37,
+			"name": "bankR"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 50,
+			"name": "hit"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 111,
+			"name": "wounded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 37,
+			"name": "crash"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bone12",
+			"parent": -1
+		}, 
+		{
+			"name": "Bone13",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone14",
+			"parent": 1
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 3
+		}, 
+		{
+			"name": "Bone04",
+			"parent": 4
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone08",
+			"parent": 6
+		}, 
+		{
+			"name": "Bone09",
+			"parent": 7
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 187,
+			"name": "flockface.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 27,
+			"name": "flockeyes.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 203,
+			"name": "flocktop.bmp",
+			"width": 164
+		}, 
+		{
+			"flags": 0,
+			"height": 89,
+			"name": "flockbot.bmp",
+			"width": 104
+		}
+	],
+	"version": 10
+}
