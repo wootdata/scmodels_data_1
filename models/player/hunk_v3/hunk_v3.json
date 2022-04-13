@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 15,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 15,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 15,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 11,
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -25,19 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "body1",
-					"polys": 3537,
-					"verts": 1829
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "body2",
-					"polys": 1762,
-					"verts": 914
+					"name": "sas",
+					"polys": 1403,
+					"verts": 768
 				}
 			],
 			"name": "body"
@@ -45,7 +35,7 @@
 	],
 	"controllers": [
 		{
-			"bone": 2,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -53,7 +43,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 3,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -61,7 +51,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 4,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -69,7 +59,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 5,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -156,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -311,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f90c5328a1511abe64298f47229450f3",
-	"name": "helmet.mdl",
+	"md5": "e4c52956a916fc9719a0d0be7b285b72",
+	"name": "Hunk.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -333,12 +323,12 @@
 		{
 			"fps": 40.000000,
 			"frames": 25,
-			"name": "run2"
+			"name": "run"
 		}, 
 		{
 			"fps": 20.000000,
 			"frames": 17,
-			"name": "walk2handed"
+			"name": "walk"
 		}, 
 		{
 			"fps": 20.000000,
@@ -1224,9 +1214,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 71,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1207608,
+	"size": 1172516,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1237,72 +1272,16 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 14
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 16
+			"parent": 2
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 17
+			"parent": 3
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1310,10 +1289,66 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 19
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Hand",
 			"parent": 20
 		}
 	],
@@ -1323,14 +1358,20 @@
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "ct_sas.bmp",
+			"name": "SAS_body.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "ct_sas_glass.bmp",
+			"height": 256,
+			"name": "SAS_head.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "SAS_chrome.bmp",
+			"width": 64
 		}
 	],
 	"version": 10
