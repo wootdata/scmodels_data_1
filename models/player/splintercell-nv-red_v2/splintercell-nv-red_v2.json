@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "terror",
-					"polys": 1509,
-					"verts": 801
+					"name": "DM_Massn_Reference",
+					"polys": 1107,
+					"verts": 607
 				}
 			],
 			"name": "body"
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f794bada82b502cf3234432953e537d5",
-	"name": "RE_UBCS_Black.mdl",
+	"md5": "16c03e925a25b2a6af0a46f347ac6734",
+	"name": "splintercell-nv.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1105652,
+	"size": 1202712,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1291,20 +1291,60 @@
 			"parent": 16
 		}, 
 		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 30
 		}
 	],
 	"skins": 1,
@@ -1312,15 +1352,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 503,
-			"name": "terror_body.bmp",
-			"width": 504
+			"height": 512,
+			"name": "body_uv copy.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 247,
-			"name": "terror_head3.bmp",
-			"width": 252
+			"height": 192,
+			"name": "head_on_uv.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "headset.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 2,
+			"height": 128,
+			"name": "add.bmp",
+			"width": 128
 		}
 	],
 	"version": 10
