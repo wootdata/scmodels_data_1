@@ -108,6 +108,7 @@
 			"name": "xsetus"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -378,7 +379,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dc29ab7dbbea36f1597f4f1e5b5fca5c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Miku_Kurumi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

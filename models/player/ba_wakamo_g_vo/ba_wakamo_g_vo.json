@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -690,7 +691,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5bf7ada6b190dc934041b829a92bf11c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ba_wakamo_g.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

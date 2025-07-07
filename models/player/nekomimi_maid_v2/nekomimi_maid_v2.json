@@ -38,6 +38,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -315,7 +316,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9adb59095f88fa66954a8e1581dd730a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimi_maid.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

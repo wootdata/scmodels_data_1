@@ -43,6 +43,7 @@
 			"name": "Rikku"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8719c4645ccca06540a7cd1568e2541c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Riku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

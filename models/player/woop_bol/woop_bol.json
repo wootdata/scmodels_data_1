@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -344,7 +345,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fd44b86f3c3d27b73dc1f03c248c9dfc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "woop_bol.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

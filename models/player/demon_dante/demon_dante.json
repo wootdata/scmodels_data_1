@@ -73,6 +73,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -350,7 +351,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8f2df856869edeb9ce6bb994606c9d1e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DEMON_DANTE.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -544,7 +545,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c7db857234a66a5ffb3504bc66a31e9d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KC_Hibiki_big.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

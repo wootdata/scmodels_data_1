@@ -302,6 +302,7 @@
 			"name": "bip01"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 9,
@@ -564,7 +565,11 @@
 	],
 	"id": 1414743113,
 	"md5": "858d2e3f0ce0cf658083c26fb14e6881",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sven Co-op\\svencooT",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

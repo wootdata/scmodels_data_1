@@ -88,6 +88,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -459,7 +460,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5c6dee44d320c8a01c0ca3416411d353",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "spess_kagerou_sweater.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

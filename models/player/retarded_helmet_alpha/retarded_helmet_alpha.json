@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -390,7 +391,11 @@
 	],
 	"id": 1414743113,
 	"md5": "771bcd8e77dc5a11d48ba7e713124446",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "retarded_helmet.mdl",
+	"preview": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -529,7 +530,11 @@
 	],
 	"id": 1414743113,
 	"md5": "66bab3086fa4da743f992517f2d5f97d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "POTjester.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

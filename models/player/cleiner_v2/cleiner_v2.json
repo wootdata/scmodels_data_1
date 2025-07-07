@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -90,7 +91,11 @@
 	],
 	"id": 1414743113,
 	"md5": "96c43ce04874d8fc651a4c2aa411fad3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Cleiner.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

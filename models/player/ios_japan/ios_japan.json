@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b138f4ee6d35e6aa24d53ad1f0ffd3ce",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ios_japan.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

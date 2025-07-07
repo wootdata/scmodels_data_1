@@ -263,6 +263,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -533,7 +534,11 @@
 	],
 	"id": 1414743113,
 	"md5": "87804f5b06315a343385cce8882592f2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_rumia.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

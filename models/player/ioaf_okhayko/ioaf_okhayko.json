@@ -83,6 +83,7 @@
 			"name": "badge"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8df1dc63414bed144ead592eda2c3b0d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_okhayko.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

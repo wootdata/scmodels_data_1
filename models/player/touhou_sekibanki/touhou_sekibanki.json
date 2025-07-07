@@ -168,6 +168,7 @@
 			"name": "hands"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -502,7 +503,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d17d1bd22a6da8853a1ace8c4f8a1c5f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Sekibanki.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

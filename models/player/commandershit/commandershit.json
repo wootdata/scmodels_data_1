@@ -18,6 +18,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -55,7 +56,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e22dbbcdd1ff3f53b0c5e08d48948f2e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:\\sierra\\half-life\\gearbox\\models\\intro_commander.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

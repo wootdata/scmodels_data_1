@@ -63,6 +63,7 @@
 			"name": "holster"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6d80ff23fb73b398e3434a8d2f75091e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "aperture_agent_2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

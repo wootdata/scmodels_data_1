@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -240,7 +241,11 @@
 	],
 	"id": 1414743113,
 	"md5": "291373882c61c74e5389518801c5ae0c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\PCT\\Pulpit\\Nowy folder\\soldier_majorf\\",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

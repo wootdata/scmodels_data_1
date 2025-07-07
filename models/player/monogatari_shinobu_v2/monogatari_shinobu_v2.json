@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -372,7 +373,11 @@
 	],
 	"id": 1414743113,
 	"md5": "68a55b49a59448002d4e2caa8a46ac9c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Monogatari_Shinobu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

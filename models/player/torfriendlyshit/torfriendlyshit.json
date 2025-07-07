@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -63,7 +64,11 @@
 	"events": [],
 	"id": 1414743113,
 	"md5": "397497aac50840e8006b374444a758c1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TorFriendlySHIT.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

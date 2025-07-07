@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "375bd885f090db87d2a0b0f2f7475cc7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "new_scout_fix.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

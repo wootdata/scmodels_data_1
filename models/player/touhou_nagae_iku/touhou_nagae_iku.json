@@ -253,6 +253,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -523,7 +524,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fe5f895b09be1ba949426f076534b12e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_nagae_iku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

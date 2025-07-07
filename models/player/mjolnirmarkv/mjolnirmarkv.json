@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "feb85d315a8ff889bd9ffa62dabe423e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mjolnir_Mark_V.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

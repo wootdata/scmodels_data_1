@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1509391011,
 	"events": [],
 	"id": 1414743113,
 	"md5": "268c41147d8cd462a4aead882ecaa1ef",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "discoball.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

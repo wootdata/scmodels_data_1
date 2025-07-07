@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "686f8d5a6c708a02721272b67fa30990",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Hgrunt/dawn.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

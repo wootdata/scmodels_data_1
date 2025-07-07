@@ -33,6 +33,7 @@
 			"name": "prajex"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bd4342fa6c57fa13f20a2f2b61c36f22",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RED_helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -640,7 +641,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3aa68d0c02dd2b739649b848e236e449",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Holo_Towa_LowPoly/Holo_Towa_LowPoly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

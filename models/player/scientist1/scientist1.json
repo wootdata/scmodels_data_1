@@ -33,6 +33,7 @@
 			"name": "marine"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "063883b8544e25867a90e9fd2430b0e4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Mis documentos\\Compu Leandro\\hacking\\sci\\wesker.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

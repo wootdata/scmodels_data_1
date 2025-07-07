@@ -103,6 +103,7 @@
 			"name": "SVEN_Team_Body6"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9a5df99e49c0d22a1e3243695f3c0d1a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mrbond123.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

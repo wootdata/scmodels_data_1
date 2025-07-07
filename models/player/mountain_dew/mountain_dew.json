@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bac9a474fe8fee502891fee9c3bc65af",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\theor\\Documents\\Projects\\Blender\\dewBottle\\Base\\dewBott",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

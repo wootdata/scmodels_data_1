@@ -93,6 +93,7 @@
 			"name": "stalker"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8ebd03322a5e889f1e2d0ab0e0f85219",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "stalker_Monolithseva.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 15,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c9cad817aa135fa1203e499b771988f5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "rebel_general.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

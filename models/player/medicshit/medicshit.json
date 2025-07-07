@@ -23,6 +23,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -45,7 +46,11 @@
 	"events": [],
 	"id": 1414743113,
 	"md5": "fb4c6841c1533646c22e21603938076a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:\\sierra\\half-life\\gearbox\\models\\intro_medic.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

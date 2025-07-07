@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7aabd57ce523acf98801657a8e897272",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "werewolf.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

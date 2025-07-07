@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -290,7 +291,11 @@
 	],
 	"id": 1414743113,
 	"md5": "51e04d5acce576947a72a72dbb11d596",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_saw.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

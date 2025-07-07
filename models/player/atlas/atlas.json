@@ -48,6 +48,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f3a8595f426b0f50a519b7f6efad395b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Atlas.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

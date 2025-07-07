@@ -43,6 +43,7 @@
 			"name": "EYES_LD"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9f8c2247bb216e256e192606ee4488b0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "him.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

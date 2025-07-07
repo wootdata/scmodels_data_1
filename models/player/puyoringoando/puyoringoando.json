@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "83f5eaa7b950ee485f1fd9a3b4cf4853",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "puyoringoando.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

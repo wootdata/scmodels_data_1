@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -269,7 +270,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cf043db56eab1d663a48f404370c9997",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "silentsniper.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
