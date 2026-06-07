@@ -73,7 +73,7 @@
 			"type": 8
 		}
 	],
-	"date": 1553716594,
+	"date": 1780811470,
 	"events": [
 		{
 			"event": 2001,
@@ -185,6 +185,7 @@
 	"md5": "20c03b4970b21a2acfd717c076eb0987",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "caleb.mdl",
 	"preview": false,
 	"readme": false,

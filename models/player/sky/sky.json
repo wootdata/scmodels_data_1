@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 980136024,
+	"date": 1780811470,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "ca009b51e3f1fb689152eba80728f299",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "onna.mdl",
 	"preview": true,
 	"readme": false,

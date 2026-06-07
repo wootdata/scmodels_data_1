@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 26,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 16,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "body",
-					"polys": 692,
-					"verts": 372
+					"name": "davidleatherhoff",
+					"polys": 656,
+					"verts": 335
 				}
 			],
 			"name": "body"
@@ -30,56 +35,34 @@
 		{
 			"models": [
 				{
-					"name": "hair 1",
-					"polys": 3124,
-					"verts": 1675
+					"name": "head_gordon",
+					"polys": 378,
+					"verts": 189
 				}
 			],
-			"name": "body"
+			"name": "head"
 		}, 
 		{
 			"models": [
 				{
-					"name": "hair 2",
-					"polys": 3067,
-					"verts": 1731
+					"name": "hair",
+					"polys": 4780,
+					"verts": 910
 				}
 			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "hair 3",
-					"polys": 3401,
-					"verts": 1904
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "hair 4",
-					"polys": 2583,
-					"verts": 1375
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "head",
-					"polys": 528,
-					"verts": 266
-				}
-			],
-			"name": "body"
+			"name": "head"
 		}
 	],
 	"colorable": false,
 	"controllers": [
+		{
+			"bone": 35,
+			"end": 30.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}, 
 		{
 			"bone": 8,
 			"end": 30.000000,
@@ -113,20 +96,55 @@
 			"type": 8
 		}
 	],
-	"date": 1780811470,
+	"date": 1744714686,
 	"events": [
 		{
 			"event": 2001,
 			"frame": 9,
 			"options": "",
-			"sequence": 8,
+			"sequence": 12,
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 1,
-			"options": "/player/playersounds/AB_Sr_Pelo_smiling/jump.wav",
-			"sequence": 9,
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 18,
 			"type": 0
 		}, 
 		{
@@ -160,6 +178,20 @@
 		{
 			"event": 5005,
 			"frame": 0,
+			"options": "muzzle_SG.txt",
+			"sequence": 65,
+			"type": 0
+		}, 
+		{
+			"event": 5005,
+			"frame": 0,
+			"options": "muzzle_SG.txt",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5005,
+			"frame": 0,
 			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
@@ -172,30 +204,16 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 1,
-			"options": "/player/playersounds/AB_Sr_Pelo_smiling/boom.wav",
-			"sequence": 87,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "/player/playersounds/AB_Sr_Pelo_smiling/boom.wav",
-			"sequence": 91,
-			"type": 0
-		}, 
-		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -263,24 +281,10 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 1,
-			"options": "/player/playersounds/AB_Sr_Pelo_smiling/boom.wav",
-			"sequence": 148,
-			"type": 0
-		}, 
-		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_spaw.txt",
 			"sequence": 153,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "/player/playersounds/AB_Sr_Pelo_smiling/boom.wav",
-			"sequence": 154,
 			"type": 0
 		}, 
 		{
@@ -324,28 +328,14 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "/player/playersounds/AB_Sr_Pelo_smiling/bernakle1.wav",
-			"sequence": 183,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "/player/playersounds/AB_Sr_Pelo_smiling/bernakle2.wav",
-			"sequence": 184,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "87a9b27a860f0ab4007e78caee193e15",
+	"md5": "9a3bd270fc04e55ae9549769046f9463",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "AB_Sr_Pelo_smiling.mdl",
+	"name": "Andrew_LDPainhider.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -1306,7 +1296,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2017488,
+	"size": 1276964,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1361,48 +1351,44 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Finger0",
-			"parent": 17
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger1",
 			"parent": 17
 		}, 
 		{
+			"name": "Bip01 L Finger02",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 16
+		}, 
+		{
 			"name": "Bip01 L Finger11",
-			"parent": 21
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 L Finger12",
-			"parent": 22
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1410,39 +1396,51 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 27
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 R Finger01",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 R Finger1",
 			"parent": 27
 		}, 
 		{
+			"name": "Bip01 R Finger02",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 26
+		}, 
+		{
 			"name": "Bip01 R Finger11",
-			"parent": 31
+			"parent": 30
 		}, 
 		{
 			"name": "Bip01 R Finger12",
-			"parent": 32
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Dummy08",
+			"parent": 33
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 34
 		}
 	],
 	"skins": 1,
@@ -1450,21 +1448,45 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "body.bmp",
-			"width": 512
+			"height": 128,
+			"name": "david_body.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "700x511_SliderInterior.bmp",
-			"width": 512
+			"height": 128,
+			"name": "david_pants.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "02_-_Default_baseColor.bmp",
-			"width": 512
+			"height": 100,
+			"name": "hands1.bmp",
+			"width": 148
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "mouth.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "new_ears.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 200,
+			"name": "ANDREFACE.bmp",
+			"width": 320
+		}, 
+		{
+			"flags": 0,
+			"height": 200,
+			"name": "hair.bmp",
+			"width": 200
 		}
 	],
 	"version": 10

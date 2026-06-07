@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1544189784,
+	"date": 1780811470,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "522ee7a2170413cb310acba7fff1d034",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/bob/bob.mdl",
 	"preview": false,
 	"readme": false,

@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1190309016,
+	"date": 1780811470,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "ef359abf521d0dc38df6a5bdebf918d4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "c:/game/halflife/valve/models/player/custom/highcount/ribbon/rib8",
 	"preview": true,
 	"readme": true,
